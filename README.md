@@ -2,11 +2,19 @@
 
 ### I'm Zul Aiman, A Full Stack Developer from Malaysia!
 
-### Main Technologies
-⚡ **Flutter, NodeJs, ReactJs, NextJs, Sass**
+### Technologies
+⚡ **Flutter . ReactJs . VueJs . AngularJs**
 
-⚡ **GraphQL, REST API, PHP, Mongoose(MongoDb), MySQL, GCP**
+⚡ **Tailwind . Bootstrap . NextJs . REST**
 
-⚡ **UI&UX Design**
+⚡ **NodeJs . GraphQL . ExpressJS . UI . UX**
+
+⚡ **MongoDB . MongooseJs . PostgreSQL**
+
+⚡ **MySQL . Google-Cloud-Platform . AWS**
+
+⚡ **Figma . Firebase . VanillaJS . IPFS**
+
+⚡ **Matrix . OrbitDB . BigchainDB . Solidity**
 
 📫 Get in touch: <a href="https://www.instagram.com/manza.z/">Instagram</a> / Email: zaiman670@gmail.com 
