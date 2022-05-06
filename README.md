@@ -25,7 +25,9 @@
 </br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=zaimanza&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Zaimanza's GitHub Stats">
-<p>&nbsp;</p>
+</p>
+</br>
+<p align='center'>
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaimanza&count_private=true&theme=radical" alt="zaimanza" />
 </p>
 </br>
