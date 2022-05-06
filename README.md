@@ -21,9 +21,10 @@
 
 📫 Get in touch: <a href="https://www.instagram.com/manza.z/">Instagram</a> / Email: zaiman670@gmail.com 
 
-
+<p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=zaimanza&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Zaimanza's GitHub Stats">
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaimanza&count_private=true&theme=radical" alt="zaimanza" />
+</p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaimanza&count_private=true&theme=radical" alt="zaimanza" />
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
