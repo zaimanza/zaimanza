@@ -28,6 +28,7 @@
 <p align='center'>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaimanza&count_private=true&theme=radical" alt="zaimanza" />
     </p>
+</br>
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
 </p>
