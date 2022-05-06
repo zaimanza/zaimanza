@@ -21,7 +21,7 @@
 
 📫 Get in touch: <a href="https://www.instagram.com/manza.z/">Instagram</a> / Email: zaiman670@gmail.com 
 
-<img src="https://github-readme-stats.vercel.app/api?username=farhan-helmy&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=zaimanza&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-helmy&count_private=true&theme=radical" alt="Jas-Script" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-helmy&count_private=true&theme=radical" alt="Jas-Script" />
 
