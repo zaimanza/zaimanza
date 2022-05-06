@@ -19,7 +19,7 @@
 
 ⚡ **Matrix . OrbitDB . BigchainDB . Solidity**
 
-📫 Get in touch: <a href="https://www.instagram.com/manza.z/">Instagram</a> / Email: zaiman670@gmail.com 
+📫 Get in touch: zaiman670@gmail.com 
 </br>
 </br>
 </br>
