@@ -21,7 +21,6 @@
 
 📫 **Get in touch: zaiman670@gmail.com**
 
-⚡ **Matrix . OrbitDB . BigchainDB . Solidity**
 🪄 https://manza-about.vercel.app/
 </br>
 </br>
