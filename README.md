@@ -21,7 +21,7 @@
 
 📫 **Get in touch: zaiman670@gmail.com**
 
-🪄 https://manza-about.vercel.app/
+🪄 **Get to know more: https://manza-about.vercel.app/**
 </br>
 </br>
 </br>
