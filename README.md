@@ -19,7 +19,7 @@
 
 ⚡ **Matrix . OrbitDB . BigchainDB . Solidity**
 
-📫 Get in touch: zaiman670@gmail.com 
+📫 **Get in touch: zaiman670@gmail.com**
 🪄 https://manza-about.vercel.app/
 </br>
 </br>
